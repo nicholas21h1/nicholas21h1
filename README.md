@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Computer Science student currently studying at UTS 
 <!--
 **nicholas21h1/nicholas21h1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
